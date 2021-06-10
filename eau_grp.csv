@@ -1,8 +1,8 @@
-"","groupe","Taillee de la commune","Pourcentage de oui"
-"1",1,"Plus de 50'000 habitants",51.9395205582718
-"2",2,"Entre 20'000 et 50'000 habitants",45.8218722356342
-"3",3,"Entre 10'000 et 20'000 habitants",46.0910839458593
-"4",4,"Entre 5000 et 10'000 habitants",51.4637908628491
-"5",5,"Entre 2000 et 5000 habitants",48.9656699047109
-"6",6,"Entre 1000 et 2000 habitants",50.5557655268751
-"7",7,"Moins de 1000 habitants",50.6721550646103
+"","groupe","Taille de la commune","taille_ville_d","taille_ville_i","Pourcentage de oui"
+"1",1,"Plus de 50'000 habitants","Plus de 50'000 habitants","Plus de 50'000 habitants",NA
+"2",2,"Entre 20'000 et 50'000 habitants","Entre 20'000 et 50'000 habitants","Entre 20'000 et 50'000 habitants",NA
+"3",3,"Entre 10'000 et 20'000 habitants","Entre 10'000 et 20'000 habitants","Entre 10'000 et 20'000 habitants",NA
+"4",4,"Entre 5000 et 10'000 habitants","Entre 5000 et 10'000 habitants","Entre 5000 et 10'000 habitants",NA
+"5",5,"Entre 2000 et 5000 habitants","Entre 2000 et 5000 habitants","Entre 2000 et 5000 habitants",NA
+"6",6,"Entre 1000 et 2000 habitants","Entre 1000 et 2000 habitants","Entre 1000 et 2000 habitants",NA
+"7",7,"Moins de 1000 habitants","Moins de 1000 habitants","Moins de 1000 habitants",NA
